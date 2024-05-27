@@ -5,6 +5,8 @@ void main() {
   secondTask([10, 20, 30, 40, 100, 70, 80, 90, 60, 50]);
   thirdTask();
   fourthTask(5);
+  fifthTask();
+  sixthTask();
 }
 void firstTask(int number) {
   for (int i = 1; i <= 10; i++) {
